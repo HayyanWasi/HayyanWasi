@@ -2,10 +2,8 @@
 
 
 **HayyanWasi/HayyanWasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:# 💫 About Me:
 🚀 About Me<br><br>👋 Hey there! I’m Hayyan Wasi — passionate about AI/ML 🤖, Agentic AI ⚡, and building scalable backend systems 🛠️.<br><br>💡 I love experimenting with AI agents and exploring how they can reshape workflows and real-world solutions.<br>🖥️ Skilled in Python 🐍, Java ☕ and Agentic AI Frame works .<br>🌟 Currently on the journey of mastering AI/ML to push boundaries and create impactful solutions.<br><br>🎯 Goals:<br><br>🚀 Build powerful SaaS products that solve real-world problems.<br><br>🌍 Contribute actively to open-source projects and collaborate with amazing devs.<br><br>✨ Always curious. Always building. Always learning and collaborating
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://pk.linkedin.com/in/hayyan-wasi-7a7936270) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hayyanwasi@gmail.com) 
